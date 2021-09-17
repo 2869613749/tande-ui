@@ -1,2 +1,2 @@
 # tandeui
-tande's components
+tande's ui
