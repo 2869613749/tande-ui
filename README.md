@@ -14,6 +14,7 @@ npm i tande-ui -S
 ### 引入 Element
 ```
 import TandeUI from 'tande-ui'
+import 'tande-ui/lib/tande-ui.css'
 
 Vue.use(TandeUI)
 ```
