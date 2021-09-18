@@ -1,14 +1,14 @@
 # tande-ui
 
-## 开始
-### 安装
+## 安装
 ```
 import TandeUI from 'tande-ui'
 Vue.use(TandeUI)
 ```
 
-### 使用
+## 快速上手
 ```
 import TandeUI from 'tande-ui'
+
 Vue.use(TandeUI)
 ```
