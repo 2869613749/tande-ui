@@ -2,7 +2,7 @@
 
 ## 安装
 ```
-npm i tande-ui
+npm i tande-ui -S
 ```
 
 ## 快速上手
