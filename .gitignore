@@ -2,6 +2,7 @@
 node_modules
 /dist
 public
+examples
 
 
 # local env files
@@ -27,3 +28,4 @@ pnpm-debug.log*
 babel.config.js
 vue.config.js
 *.map
+package-lock.json

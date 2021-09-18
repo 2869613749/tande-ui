@@ -1,6 +1,7 @@
-import Nav from "./nav"
+import Button from "../packages/button"
+import Nav from "../packages/nav"
 
-const components = [Nav]
+const components = [Button, Nav]
 
 const install = function(Vue) {
 	// 注册所有的组件
