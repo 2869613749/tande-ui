@@ -1,19 +1,12 @@
 # tande-ui
 
-## Project setup
+## 安装
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm i tande-ui
 ```
 
-### Compiles and minifies for production
+### 使用
 ```
-npm run build
+import TandeUI from 'tande-ui'
+Vue.use(TandeUI)
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
