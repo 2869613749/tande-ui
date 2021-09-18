@@ -1,2 +1,2 @@
-# tandeui
+# tande-ui
 tande's ui
